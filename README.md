@@ -2,7 +2,7 @@
 Open Source Data Structure Library in C
 
 ## Linked List (Doubly Linked List)
-See the Wiki for API usage information
+See the [API](https://github.com/johnsoga/data-structures/wiki/Basic-API) for basic usage information [API](wiki/Basic-API)
 
 ## Roadmap
 - [x] Basic Linked List Library
