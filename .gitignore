@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Visaul Studio Code Files
+.vscode/
+
+# MacOS Files
+.DS_Store

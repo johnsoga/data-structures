@@ -6,6 +6,9 @@ See the [API](https://github.com/johnsoga/data-structures/wiki/Basic-API) for ba
 
 ## Roadmap
 - [x] Basic Linked List Library
-- [ ] Unit/Functional Testing
+- [x] Basic Functional Testing
 - [ ] Performance Testing
 - [ ] Wrapper for Queue/Stack
+
+## Testing
+Functional tests use the [Check](https://github.com/libcheck/check) library.
